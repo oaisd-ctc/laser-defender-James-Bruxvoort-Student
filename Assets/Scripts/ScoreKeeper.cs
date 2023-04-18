@@ -5,10 +5,10 @@ using UnityEngine;
 public class ScoreKeeper : MonoBehaviour
 {
     int score;
+
     static ScoreKeeper instance;
 
-
-    void Awake() 
+    void Awake()
     {
         ManageSingleton();
     }
@@ -44,3 +44,4 @@ public class ScoreKeeper : MonoBehaviour
         score = 0;
     }
 }
+

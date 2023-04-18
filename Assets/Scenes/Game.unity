@@ -451,6 +451,18 @@ PrefabInstance:
       propertyPath: health
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: 6257841116484775653, guid: 3c204079c6c748246bd00e8789b74c24, type: 3}
+      propertyPath: paddingTop
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308597721505471775, guid: 3c204079c6c748246bd00e8789b74c24, type: 3}
+      propertyPath: baseFiringRate
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308597721505471775, guid: 3c204079c6c748246bd00e8789b74c24, type: 3}
+      propertyPath: projectileSpeed
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 7238925210570371397, guid: 3c204079c6c748246bd00e8789b74c24, type: 3}
       propertyPath: m_Name
       value: Kenny (Player)
