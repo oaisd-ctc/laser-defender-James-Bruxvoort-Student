@@ -324,6 +324,10 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: 67462185541ec8a488a4c3809c56d655, type: 2}
   - {fileID: 11400000, guid: cde95979b30f0d647ac12c282cbb444d, type: 2}
+  - {fileID: 11400000, guid: dc6ec45d97de8844f9a55618316770f6, type: 2}
+  - {fileID: 11400000, guid: 22052338f5646794a890fefb7193cb02, type: 2}
+  - {fileID: 11400000, guid: 55d2a5e81e7a9424bbb10bed0117a04b, type: 2}
+  - {fileID: 11400000, guid: 3cc84dedbf56af5408d6233ff01b9b46, type: 2}
   timeBetweenWaves: 0
   isLooping: 1
 --- !u!4 &356773685
@@ -449,7 +453,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -3424486733492787191, guid: 3c204079c6c748246bd00e8789b74c24, type: 3}
       propertyPath: health
-      value: 50
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6257841116484775653, guid: 3c204079c6c748246bd00e8789b74c24, type: 3}
       propertyPath: paddingTop
